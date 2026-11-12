@@ -49,7 +49,7 @@ Tu as un projet en tête ? Tu souhaites apprendre l'électronique, découvrir la
 **Tu es au bon endroit.** Koda est ouvert à tous les makers, quel que soit leur niveau.
 
 - 🌐 **Site web :** [kodafrance.com](https://www.kodafrance.com)
-- 💬 **Discord :** [Rejoins la communauté](https://discord.com/)
+- 💬 **Discord :** [Rejoins la communauté](https://discord.gg/6YHkxBtDef)
 - 🐙 **GitHub :** Explore nos projets et contribue à leur développement.
 
 ---
